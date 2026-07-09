@@ -4,4 +4,4 @@
 
 
 ## Entity Relationship Diagram
-![image alt](https://github.com/hcmm-mou/movie-database/blob/1aca478e5170f5c4da5785309b8b04459fec2c2a/ERD.png)
+![image alt](https://github.com/hcmm-mou/movie-database/blob/c88da5967be95060c1d40f48961c933a4d67681f/ERD.png)
