@@ -1,0 +1,48 @@
+movie_id,title,letterboxd_rating,imdb_rating,release_date,country,runtime,language
+501,Heat,4.30,8.30,1995,USA,170,ENG
+502,"Reservoir Dogs",4.20,8.30,1992,USA,99,ENG
+503,"Fight Club",4.30,8.80,1999,USA,139,ENG
+504,"The Dark Knight",4.50,9.00,2008,USA,152,ENG
+505,Manhunter,3.90,7.20,1986,USA,120,ENG
+506,"Inglourious Basterds",4.40,8.40,2009,USA,153,ENG
+507,Confessions,4.00,7.70,2010,JP,107,JPN
+508,"Shaolin Soccer",3.80,7.30,2001,HK,113,CAN
+509,"All About Lily Chou-Chou",4.20,7.50,2001,JP,146,JPN
+5010,"Vanilla Sky",3.50,6.90,2001,USA,136,ENG
+5011,"Summer Ghost",3.70,7.40,2021,JP,40,JPN
+5012,"Die Hard 2",3.30,7.10,1990,USA,124,ENG
+5013,Focus,3.10,6.60,2015,USA,105,ENG
+5014,Collateral,3.90,7.50,2004,USA,120,ENG
+5015,Havoc,2.60,5.70,2025,USA,107,ENG
+5016,"F1 The Movie",3.80,7.90,2025,USA,156,ENG
+5017,"Decision to Leave",4.00,7.30,2022,KOR,138,KRN
+5018,"Venom: The Last Dance",2.50,6.00,2024,USA,109,ENG
+5019,"28 Years Later",3.60,7.20,2025,UK,115,ENG
+5020,"The Accountant 2",3.10,6.70,2025,USA,133,ENG
+5021,Clue,3.90,7.30,1985,USA,94,ENG
+5022,"Dark Waters",3.80,7.60,2019,USA,127,ENG
+5023,Sinners,4.20,7.70,2025,USA,138,ENG
+5024,"Doctor Sleep",3.40,7.30,2019,USA,152,ENG
+5025,"El Camino: A Breaking Bad Movie",3.60,7.30,2019,USA,123,ENG
+5026,"Zombieland: Double Tap",3.00,6.70,2019,USA,99,ENG
+5027,"Knives Out",4.00,7.90,2019,USA,131,ENG
+5028,"Glass Onion: A Knives Out Mystery",3.40,7.10,2022,USA,140,ENG
+5029,"Joker: Folie à Deux",2.40,5.20,2024,USA,138,ENG
+5030,Joker,3.80,8.30,2019,USA,122,ENG
+5031,Superman,4.00,7.70,2025,USA,130,ENG
+5032,Copycat,3.20,6.60,1995,USA,124,ENG
+5033,Brothers,3.50,7.10,2009,USA,105,ENG
+5034,"Once Upon a Time… in Hollywood",3.80,7.60,2019,USA,162,ENG
+5035,Twisters,3.30,6.50,2024,USA,123,ENG
+5036,Pearl,3.70,7.00,2022,USA,102,ENG
+5037,MaXXXine,3.10,6.20,2024,USA,103,ENG
+5038,X,3.40,6.50,2022,USA,106,ENG
+5039,"Tricky Brains",3.50,7.00,1991,HK,110,CAN
+5040,"The Curious Case of Benjamin Button",3.70,7.80,2008,USA,166,ENG
+5041,"Django Unchained",4.30,8.50,2012,USA,165,ENG
+5042,"Miami Vice",3.40,6.10,2006,USA,132,ENG
+5043,Pulse,3.70,6.50,2001,JP,119,JPN
+5044,"The Hurt Locker",3.80,7.50,2008,USA,131,ENG
+5045,Life,3.00,6.60,2017,USA,104,ENG
+5046,"You Were Never Really Here",3.70,6.70,2017,USA,89,ENG
+5047,"The Killing of a Sacred Deer",3.70,7.00,2017,USA,121,ENG
