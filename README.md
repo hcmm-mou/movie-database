@@ -9,6 +9,6 @@ This repository contains a relational database designed to track, manage, and an
 * **Personal Log Table:** my_ratings logs the my historical data, capturing my personal rating, the specific streaming platform or medium used to watch the film.
 
 ## Entity Relationship Diagram
-![image alt](https://github.com/hcmm-mou/movie-database/blob/eba2b31e4800fd1c1268caf61b5cc5b8c346bd1b/Movie_ERD.png)
+![image alt](https://github.com/hcmm-mou/movie-database/blob/32fba0152c15ba7ae07fe291e32ddff1b18d5969/other/Movie_ERD.png)
 
 ## Query Outputs
