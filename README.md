@@ -13,4 +13,28 @@ This repository contains a relational database designed to track, manage, and an
 
 ## Query Outputs
 
-# 
+### 1. My Top Rated Genres
+* Top rated genres in the movie databse and number of films watched in the category 
+  
+![image alt](https://github.com/hcmm-mou/movie-database/blob/8fd9c6e138d1db8c18684012c0c663e81b51b1f0/other/top_rated_genre.png)
+
+### 2. Most Watched Platform
+* Most used platform for watching movies and total watch time for each platform
+
+![image alt](https://github.com/hcmm-mou/movie-database/blob/8fd9c6e138d1db8c18684012c0c663e81b51b1f0/other/most_watched_platform.png)
+
+### 3. Favourite Movie Era
+* The number of movies watched in each decade and its average rating
+
+![image alt](https://github.com/hcmm-mou/movie-database/blob/8fd9c6e138d1db8c18684012c0c663e81b51b1f0/other/favourite_movie_era.png)
+
+### 4. Most Watched Actors
+* Most watched actors and personal average ratings for their projects
+
+![image alt](https://github.com/hcmm-mou/movie-database/blob/8fd9c6e138d1db8c18684012c0c663e81b51b1f0/other/most_watched_actors.png)
+
+### 5. Rating Difference Between Personal & Average User Rating (Letterboxd)
+* The rating gap and difference of my personal rating relative to the average user rating on letterboxd
+
+![image alt](https://github.com/hcmm-mou/movie-database/blob/8fd9c6e138d1db8c18684012c0c663e81b51b1f0/other/my_rating_difference.png)
+
