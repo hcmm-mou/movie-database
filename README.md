@@ -12,6 +12,7 @@ This repository contains a relational database designed to track, manage, and an
 ![image alt](https://github.com/hcmm-mou/movie-database/blob/32fba0152c15ba7ae07fe291e32ddff1b18d5969/other/Movie_ERD.png)
 
 ## Query Outputs
+[View Queries](https://github.com/hcmm-mou/movie-database/tree/3f3ef3f3c5671c4b830ca07e42742423e9eea5c5/analytics%20and%20queries)
 
 ### 1. My Top Rated Genres
 * Top rated genres in the movie databse and number of films watched in the category 
