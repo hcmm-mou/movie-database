@@ -1,7 +1,7 @@
 # Movie Database
 
 ## Project Overview 
-This repository contains a relational database designed to track, manage, and analyze historical film viewing habits and personal behavioural trends. The primary goal of the project is to gain data-driven insights into personal media consumption trends using metrics, and to serve as practices in refining and sustaining SQL querying, database design, and data analysis skills.
+This repository contains a relational database designed to track, manage, and analyze historical film viewing habits and personal behavioural trends. The primary goal of the project is to gain data-driven insights into personal media consumption trends using engagement metrics, and to serve as practices in refining and sustaining SQL querying, database design, and data analysis skills.
 
 ## Database Structure
 [View Structure & Data Insert Script](https://github.com/hcmm-mou/movie-database/tree/3f3ef3f3c5671c4b830ca07e42742423e9eea5c5/analytics%20and%20queries)
